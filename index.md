@@ -149,6 +149,8 @@ I also enjoy developing applications involving robotics and electronics.
 - Honorable Mention at the Brazilian Physics Olympiad, Brazil (2008).
 
 ## Invited Talks [[top](#erica-kido-shimomoto)]
+- Invited Talk at the Center for Artificial Intelligence Research (C-Air) at the University of Tsukuba, 2025.02.27 \
+  Title: Recent Trends on LLM Development.
 - Invited Talk at Research Program Benchmarking Visit - Universiti Teknologi Malaysia, AIRC, 2024.10.28 \
   Title: Recent Trends on LLMs.
 - Invited Talk at JICA, Jordan: AI Research and Development in Japan, AIRC, 2024.09.12. \
