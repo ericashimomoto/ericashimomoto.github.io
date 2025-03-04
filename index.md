@@ -75,12 +75,12 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/304408380_A_faster_face_detection_method_combining_Bayesian_and_Haar_Cascade_Classifiers)]
 
 ### Domestic Conferences (Japan)
-* Towards Automated Detection of Hype in Biomedical Research \
-    Bojan Batalo, Erica K. Shimomoto and Neil Millar \
-    To appear in *言語処理学会 第31回年次大会 発表論文集*.
-* Data Augmentation for Open-Domain Live Commentary Generation \
+* [Data Augmentation for Open-Domain Live Commentary Generation](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q3-6.pdf) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao \
-    To appear in *言語処理学会 第31回年次大会 発表論文集*.
+    In *言語処理学会 第31回年次大会 発表論文集*.
+* [Towards Automated Detection of Hype in Biomedical Research](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q6-17.pdf) \
+    Bojan Batalo, Erica K. Shimomoto and Neil Millar \
+    In *言語処理学会 第31回年次大会 発表論文集*.
 * [Zero-shot Definition Modelling for Portuguese](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-12.pdf) \
     Edison Marrese-Taylor, Erica K. Shimomoto, Erique Reid \
     In *言語処理学会 第30回年次大会 発表論文集*, March, 2024.
