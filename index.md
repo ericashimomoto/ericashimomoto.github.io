@@ -2,7 +2,7 @@
 
 e-mail: kidoshimomoto.e (at) aist.go.jp
 
-I am a researcher at the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html), member of the [Knowledge and Information Research Team](https://aistairc.github.io/plu/index.html)).
+I am a researcher at the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html), member of the [Language and Information Research Team](https://aistairc.github.io/plu/index.html))(former KIRT).
 
 My research topics involve natural language processing, computer vision and pattern recognition. More specifically, my main line of study is the investigation of subspace based-methods and its applications on word embedding. Recently, I have started to dive into the multimodal world, trying to develop less data-hungry model and/or reduce the computational need of existing models.
 
@@ -38,10 +38,13 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ### International Conferences
+* Automating the Detection of Promotional Language ('Hype') in Biomedical Research: A Pilot Study \
+    Bojan Batalo, Erica K. Shimomoto, Neil Millar \
+    Accepted to the International Congress on Peer Review and Scientific Publication, 2025.
 * [Introducing Spatial Information and a Novel Evaluation Scheme for Open-Domain Live Commentary Generation](https://aclanthology.org/2024.findings-emnlp.606/) \
     Erica K. Shimomoto\*, Edison Marrese-Taylor\*, Ichiro Kobayashi, Hiroya Takamura and Yusuke Miyao \
     \* Authors contributed equally to this work. \
-    Accepted to *Findings of the 2024 Conference on Empirical Methods in Natural Language Processing*, 2024.
+    In *Findings of the 2024 Conference on Empirical Methods in Natural Language Processing*, 2024.
 * [An empirical study of Definition Modeling with LLMs for the main languages of Latin America](https://research.latinxinai.org/papers/naacl/2024/pdf/Erica_Shimomoto.pdf) \
     Erica K. Shimomoto\*, Edison Marrese-Taylor\*, Enrique Reid \
     \* Authors contributed equally to this work. \
@@ -111,7 +114,7 @@ I also enjoy developing applications involving robotics and electronics.
 - 2006 - 2008: Technical course in Mechatronics. [Fundação Matias Machline (former Fundação Nokia de Ensino)](https://www.fundacaomatiasmachline.org.br/).
 
 ## Work Experience [[top](#erica-kido-shimomoto)]
-- 2024.10 - Now: Researcher at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
+- 2024.10 - Now: Researcher at [Language and Information Research Team](https://aistairc.github.io/plu/) (former KIRT), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2022.04 - 2024.09: Postdoctoral researcher at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2023.12 - 2024.02: Teaching Assistant at the University of Tokyo for the Introduction to Machine Learning class.
 - 2022.11 - 2023.01: Teaching Assistant at the University of Tokyo for the Introduction to Machine Learning class.
