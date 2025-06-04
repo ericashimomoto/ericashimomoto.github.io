@@ -38,6 +38,10 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ### International Conferences
+* Multilingual Definition Modeling \
+    Edison Marrese-Taylor, Erica K. Shimomoto, Alfredo Solano, Enrique Reid \
+    Accepted to *Findings of the 63rd Annual Meeting of the Association for Computational Linguistics*, 2025. \
+    [[Preprint](https://arxiv.org/abs/2506.01489)]
 * Automating the Detection of Promotional Language ('Hype') in Biomedical Research: A Pilot Study \
     Bojan Batalo, Erica K. Shimomoto, Neil Millar \
     Accepted to the International Congress on Peer Review and Scientific Publication, 2025.
@@ -95,6 +99,9 @@ I also enjoy developing applications involving robotics and electronics.
     In *言語処理学会 第29回年次大会 発表論文集*, March, 2023.
 
 ### Pre-prints
+* [Multilingual Definition Modeling](https://arxiv.org/abs/2506.01489) \
+    Edison Marrese-Taylor, Erica K. Shimomoto, Alfredo Solano, Enrique Reid \
+    arXiv, 2025.
 * [Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation](https://arxiv.org/abs/2412.07334) \
     Pedro H. V. Valois, Lincon S. Souza, Erica K. Shimomoto, Kazuhiro Fukui \
     arXiv, 2024.
