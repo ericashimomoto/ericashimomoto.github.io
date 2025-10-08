@@ -102,6 +102,9 @@ I also enjoy developing applications involving robotics and electronics.
     In *言語処理学会 第29回年次大会 発表論文集*, March, 2023.
 
 ### Pre-prints
+* [Hype or not? Formalizing Automatic Promotional Language Detection in Biomedical Research](https://arxiv.org/abs/2509.24638) \
+    Bojan Batalo, Erica K. Shimomoto, Neil Millar \
+    arXiv, 2025.
 * [Multilingual Definition Modeling](https://arxiv.org/abs/2506.01489) \
     Edison Marrese-Taylor, Erica K. Shimomoto, Alfredo Solano, Enrique Reid \
     arXiv, 2025.
