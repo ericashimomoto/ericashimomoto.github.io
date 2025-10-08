@@ -45,9 +45,9 @@ I also enjoy developing applications involving robotics and electronics.
     Edison Marrese-Taylor, Erica K. Shimomoto, Alfredo Solano, Enrique Reid \
     In *Findings of the 63rd Annual Meeting of the Association for Computational Linguistics*, 2025. \
     [[Preprint](https://arxiv.org/abs/2506.01489)]
-* Automating the Detection of Promotional Language ('Hype') in Biomedical Research: A Pilot Study \
+* [Automating the Detection of Promotional Language ('Hype') in Biomedical Research: A Pilot Study](https://peerreviewcongress.org/abstract/automating-the-detection-of-promotional-hype-language-in-biomedical-research/) \
     Bojan Batalo, Erica K. Shimomoto, Neil Millar \
-    Accepted to the International Congress on Peer Review and Scientific Publication, 2025.
+    International Congress on Peer Review and Scientific Publication, 2025.
 * [Introducing Spatial Information and a Novel Evaluation Scheme for Open-Domain Live Commentary Generation](https://aclanthology.org/2024.findings-emnlp.606/) \
     Erica K. Shimomoto\*, Edison Marrese-Taylor\*, Ichiro Kobayashi, Hiroya Takamura and Yusuke Miyao \
     \* Authors contributed equally to this work. \
