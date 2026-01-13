@@ -42,6 +42,9 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ### International Conferences
+* Hype or not? Formalizing Automatic Promotional Language Detection in Biomedical Research \
+    Bojan Batalo, Erica K. Shimomoto, Dipesh Satav, Neil Millar \
+    Accepted at *The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL2026).*
 * [Multilingual Definition Modeling](https://aclanthology.org/2025.findings-acl.1328/) \
     Edison Marrese-Taylor, Erica K. Shimomoto, Alfredo Solano, Enrique Reid \
     In *Findings of the 63rd Annual Meeting of the Association for Computational Linguistics*, 2025. \
