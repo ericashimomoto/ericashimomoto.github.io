@@ -42,9 +42,13 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ### International Conferences
+* Best-Worst Scaling of Hype in Biomedical Research: Building an Intensity Lexicon of Promotional Adjectives \
+    Neil Millar, Dipesh Satav, Bojan Batalo, Erica K. Shimomoto, Ryosuke L. Ohniwa \
+    Accepted at *15th edition of the Language Resources and Evaluation Conference (LREC2026).*  
 * Hype or not? Formalizing Automatic Promotional Language Detection in Biomedical Research \
     Bojan Batalo, Erica K. Shimomoto, Dipesh Satav, Neil Millar \
-    Accepted at *The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL2026).*
+    Accepted at *The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL2026).* \
+    [[Preprint](https://arxiv.org/abs/2509.24638)]
 * [Multilingual Definition Modeling](https://aclanthology.org/2025.findings-acl.1328/) \
     Edison Marrese-Taylor, Erica K. Shimomoto, Alfredo Solano, Enrique Reid \
     In *Findings of the 63rd Annual Meeting of the Association for Computational Linguistics*, 2025. \
