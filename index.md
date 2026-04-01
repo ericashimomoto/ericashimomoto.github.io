@@ -45,9 +45,9 @@ I also enjoy developing applications involving robotics and electronics.
 * Best-Worst Scaling of Hype in Biomedical Research: Building an Intensity Lexicon of Promotional Adjectives \
     Neil Millar, Dipesh Satav, Bojan Batalo, Erica K. Shimomoto, Ryosuke L. Ohniwa \
     Accepted at *15th edition of the Language Resources and Evaluation Conference (LREC2026).*  
-* Hype or not? Formalizing Automatic Promotional Language Detection in Biomedical Research \
+* [Hype or not? Formalizing Automatic Promotional Language Detection in Biomedical Research](https://aclanthology.org/2026.eacl-long.328/) \
     Bojan Batalo, Erica K. Shimomoto, Dipesh Satav, Neil Millar \
-    Accepted at *The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL2026).* \
+    In *Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)*, 2026. \
     [[Preprint](https://arxiv.org/abs/2509.24638)]
 * [Multilingual Definition Modeling](https://aclanthology.org/2025.findings-acl.1328/) \
     Edison Marrese-Taylor, Erica K. Shimomoto, Alfredo Solano, Enrique Reid \
