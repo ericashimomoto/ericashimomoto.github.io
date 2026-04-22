@@ -93,6 +93,12 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/304408380_A_faster_face_detection_method_combining_Bayesian_and_Haar_Cascade_Classifiers)]
 
 ### Domestic Conferences (Japan)
+* [Assessing LVLM alignment for the Evaluation of Automatic Video Commentary Generation](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C2-23.pdf) \
+    Erica K. Shimomoto, Edison Marrese-Taylor, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao \
+    In *言語処理学会 第32回年次大会 発表論文集*.
+* [Hype Intensity Lexicon in Biomedical Research](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q2-20.pdf) \
+    Dipesh Satav, Neil Millar, Bojan Batalo, Erica K. Shimomoto, Ryosuke L. Ohniwa \
+    In *言語処理学会 第32回年次大会 発表論文集*.
 * [Data Augmentation for Open-Domain Live Commentary Generation](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q3-6.pdf) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao \
     In *言語処理学会 第31回年次大会 発表論文集*.
