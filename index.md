@@ -95,16 +95,19 @@ I also enjoy developing applications involving robotics and electronics.
 ### Domestic Conferences (Japan)
 * [Assessing LVLM alignment for the Evaluation of Automatic Video Commentary Generation](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C2-23.pdf) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao \
-    In *言語処理学会 第32回年次大会 発表論文集*.
+    In *言語処理学会 第32回年次大会 発表論文集*, March, 2026.
 * [Hype Intensity Lexicon in Biomedical Research](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q2-20.pdf) \
     Dipesh Satav, Neil Millar, Bojan Batalo, Erica K. Shimomoto, Ryosuke L. Ohniwa \
-    In *言語処理学会 第32回年次大会 発表論文集*.
+    In *言語処理学会 第32回年次大会 発表論文集*, March, 2026.
+* [Sign-to-text matching space for new sign selection](https://ken.ieice.org/ken/paper/202503190cJN/eng/) \
+    Matheus Silva de Lima, Pedro H. V. Valois, Erica K. Shimomoto, Nobuko Kato, Kazuhiro Fukui \
+    In PRMU2025, vol. 124, no. 445, pp. 53-57, March, 2025.
 * [Data Augmentation for Open-Domain Live Commentary Generation](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q3-6.pdf) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao \
-    In *言語処理学会 第31回年次大会 発表論文集*.
+    In *言語処理学会 第31回年次大会 発表論文集*, March, 2025.
 * [Towards Automated Detection of Hype in Biomedical Research](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q6-17.pdf) \
     Bojan Batalo, Erica K. Shimomoto and Neil Millar \
-    In *言語処理学会 第31回年次大会 発表論文集*.
+    In *言語処理学会 第31回年次大会 発表論文集*, March, 2025.
 * [Zero-shot Definition Modelling for Portuguese](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-12.pdf) \
     Edison Marrese-Taylor, Erica K. Shimomoto, Erique Reid \
     In *言語処理学会 第30回年次大会 発表論文集*, March, 2024.
