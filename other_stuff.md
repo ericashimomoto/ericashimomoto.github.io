@@ -4,7 +4,7 @@ title: Other Stuff
 nav_order: 5
 ---
 
-# Miscellaneous [[top](#erica-kido-shimomoto)]
+# Miscellaneous
 ## Online Content Creation
 - YouTube channel [S4dako](https://www.youtube.com/c/s4dako), since 2015\
     I upload videos talking about my experience with the MEXT scholarship, and about my life in Japan as an international student and researcher.
