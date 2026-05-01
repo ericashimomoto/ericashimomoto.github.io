@@ -4,7 +4,7 @@ title: Work Experience
 nav_order: 3
 ---
 
-# Work Experience [[top](#erica-kido-shimomoto)]
+# Work Experience
 - 2024.10 - Now: Researcher at [Language and Information Research Team](https://aistairc.github.io/plu/) (former KIRT), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2022.04 - 2024.09: Postdoctoral researcher at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2023.12 - 2024.02: Teaching Assistant at the University of Tokyo for the Introduction to Machine Learning class.
