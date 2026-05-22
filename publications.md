@@ -23,9 +23,9 @@ nav_order: 1
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ## International Conferences
-* Best-Worst Scaling of Hype in Biomedical Research: Building an Intensity Lexicon of Promotional Adjectives \
+* [Best-Worst Scaling of Hype in Biomedical Research: Building an Intensity Lexicon of Promotional Adjectives](https://lrec.elra.info/lrec2026-main-658) \
     Neil Millar, Dipesh Satav, Bojan Batalo, Erica K. Shimomoto, Ryosuke L. Ohniwa \
-    Accepted at *15th edition of the Language Resources and Evaluation Conference (LREC2026).*  
+    In *Proceedings of the 15th edition of the Language Resources and Evaluation Conference (LREC2026)*, 2026. 
 * [Hype or not? Formalizing Automatic Promotional Language Detection in Biomedical Research](https://aclanthology.org/2026.eacl-long.328/) \
     Bojan Batalo, Erica K. Shimomoto, Dipesh Satav, Neil Millar \
     In *Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)*, 2026. \
