@@ -25,7 +25,8 @@ nav_order: 1
 ## International Conferences
 * [Best-Worst Scaling of Hype in Biomedical Research: Building an Intensity Lexicon of Promotional Adjectives](https://lrec.elra.info/lrec2026-main-658) \
     Neil Millar, Dipesh Satav, Bojan Batalo, Erica K. Shimomoto, Ryosuke L. Ohniwa \
-    In *Proceedings of the 15th edition of the Language Resources and Evaluation Conference (LREC2026)*, 2026. 
+    In *Proceedings of the 15th edition of the Language Resources and Evaluation Conference (LREC2026)*, 2026. \
+    [[Project Page](https://www.hype-busters.com/hyplex/)][[Dataset](https://github.com/hype-busters/lrec2026-hype-lexicon)]
 * [Hype or not? Formalizing Automatic Promotional Language Detection in Biomedical Research](https://aclanthology.org/2026.eacl-long.328/) \
     Bojan Batalo, Erica K. Shimomoto, Dipesh Satav, Neil Millar \
     In *Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)*, 2026. \
