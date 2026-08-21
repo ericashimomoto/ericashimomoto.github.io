@@ -54,5 +54,6 @@ nav_order: 2
 - Research Talk: News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image \
 
 # Academic events organization 
+- Organization committee member for the [Subspaces in the Era of Foundation Models Workshop](https://subspaces-workshop.github.io/2026/index.html) at [ACCV2026](https://accv2026.org/).
 - Organization committee member for the [2021 CollaboTICS](https://collabotics2021.github.io/index.html), a collaborative workshop among the University of Tsukuba (Japan), University of Grenoble-Alpes (France) and the Ruhr-Universität Bochum (Germany).
 - Program chair for the [2020 UGA & UT Workshop](https://uga-ut-ws.github.io/index.html), a collaborative workshop between the University of Tsukuba (Japan) and the University of Grenoble-Alpes (France).
