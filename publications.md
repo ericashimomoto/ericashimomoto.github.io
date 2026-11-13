@@ -23,6 +23,9 @@ nav_order: 1
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ## International Conferences
+* Zero-shot Video Commentary Generation and Evaluation with Large Vision-Language Models \
+    Erica K. Shimomoto, Edison Marrese-Taylor, Matīss Rikters, Hiroya Takamura, Ichiro Kobayashi, Yusuke Miyao \
+    Accepted at EACL2027.
 * [Best-Worst Scaling of Hype in Biomedical Research: Building an Intensity Lexicon of Promotional Adjectives](https://lrec.elra.info/lrec2026-main-658) \
     Neil Millar, Dipesh Satav, Bojan Batalo, Erica K. Shimomoto, Ryosuke L. Ohniwa \
     In *Proceedings of the 15th edition of the Language Resources and Evaluation Conference (LREC2026)*, 2026. \
